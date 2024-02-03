@@ -1,10 +1,9 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
  
 /* varibles */
 :root{
     --body-color: rgb(245,245,245) ;
-    --color-white: rgb(255,255,255);
+    --color-white: rgb(255,255,256);
 
     --text-color-second: rgb(68,68,68);
     --text-color-third: rgb(30,159,171) ;

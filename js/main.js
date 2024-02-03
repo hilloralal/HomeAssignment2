@@ -28,15 +28,6 @@ function headerShadow(){
     }
 }
 
-// // typing effect 
-// var typingEffect = new Typed(".typedText",{
-//     strings : ["Student"],
-//     loop : true,
-//     typeSpeed : 100, 
-//     backSpeed : 80,
-//     backDelay : 2000
-//  })
- 
 //  Animation 
  const sr = ScrollReveal({
     origin: 'top',

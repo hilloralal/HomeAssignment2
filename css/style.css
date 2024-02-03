@@ -72,7 +72,6 @@ i{
 body{
     background: var(--body-color);
 }
-
 .container{
     width: 100%;
     position: relative;
@@ -337,9 +336,6 @@ footer .icon{
 }
 
 /* PROJECTS  */
-
-
-
 .project-container{
     flex-direction: column;
     display: flex;
@@ -400,7 +396,6 @@ footer .icon{
 
 /* SKILLS  */
 
-/* about skills box  */
 .skills-box{
     margin: 10px;
 }
@@ -433,7 +428,6 @@ footer .icon{
     gap: 20px;
 
 }
-
 .my-skills{
     color: var(--text-color-second);
     position: relative;
@@ -441,7 +435,6 @@ footer .icon{
     justify-content: center;
     align-items: center;
 }
-
 .skills-p{
     position: relative;
     display: flex;
@@ -458,13 +451,10 @@ footer .icon{
     border-radius: 10px;
     box-shadow: 1px 8px 2px --first-shadow-color;
 }
-
-
 .skills-p h2:hover{
     color: var(--second-color);
     transition: 2s;
 }
-
 
 
 /* responsive */
@@ -548,7 +538,6 @@ footer .icon{
         width: 100%; 
 
     }
-
 }
 
 

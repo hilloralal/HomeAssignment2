@@ -1,0 +1,38 @@
+
+@media only screen and (max-width: 900px) {
+    
+    .image, .image img{
+        width: 320px;
+        height: 320px;
+    }
+   
+    
+    
+    .featured-image{
+        order: 1;
+        justify-content: center;
+        min-height: 150px;
+        width: 100%;
+        margin-top: 65px;
+    }
+    .image, .image img{
+        width: 150px;
+        height: 1px;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 50px;
+    }
+    .about-info{
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .col{
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+}
